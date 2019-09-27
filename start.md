@@ -6,7 +6,7 @@
 6. git config user.name 
 7. git config user.email
 
-8. git status
+8. `git status`
 9. git add start.txt
 
 
