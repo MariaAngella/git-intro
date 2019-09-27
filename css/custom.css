@@ -1,0 +1,18 @@
+.cities {
+    background-color: black;
+    color: white;
+    margin: 20px;
+    padding: 20px;
+  }
+  img{
+    width:"500"; 
+    height: "300";
+  }
+  #para1 {
+    text-align: center;
+    color: green;
+  }
+  .center {
+    text-align: center;
+    color: red;
+  }
